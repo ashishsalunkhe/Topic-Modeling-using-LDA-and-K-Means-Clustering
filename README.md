@@ -1,6 +1,6 @@
 # Topic-Modeling-using-LDA-and-K-Means-Clustering
 **MITU Skillologies : Project Intern** </br>
-**Project: News Articles Topic Modeling using LDA:** </br>
+**Project: News Articles Topic Modeling using LDA** </br>
 Implemented generative probabilistic model for collections of discrete data: text corpora and
 automatically labeling the textual data. 
  - Used K-means Clustering, Random Forest Classifier and Latent Dirichlet Allocation.
